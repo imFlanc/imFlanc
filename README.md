@@ -16,8 +16,8 @@ Data-centric AI
 
 ## Experience
 
-- **VISLab** — 데이터 시각화 연구원 (Mar 2023 - Present)  
-- **분당서울대병원** — 외부참여연구원 (Jun 2024 – Dec 2024)  
+- **VISLab** — 시각화연구실 연구원 (Mar 2023 - Present)  
+- **분당서울대병원** — 외부참여 연구원 (Jun 2024 – Dec 2024)  
 - **㈜Vinit** — 개발팀 인턴사원 (Jul 2022 – Dec 2022)  
 
 ## Skills & Tools
