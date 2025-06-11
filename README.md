@@ -11,8 +11,8 @@ Data-centric AI
 ## Education
 
 **Soongsil University**, Seoul, Republic of Korea  
-- M.E., School of Computer Science and Engineering (Mar 2023 – Aug 2025)  
-- B.S., School of Electronic Engineering (Mar 2018 – Feb 2023)
+- M.E., School of Computer Science and Engineering  
+- B.S., School of Electronic Engineering
 
 ## Experience
 
