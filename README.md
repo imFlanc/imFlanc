@@ -28,7 +28,6 @@ Data-centric AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![OpenAI Gym](https://img.shields.io/badge/OpenAI_Gym-0A0A0A?style=flat&logo=openai&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=flat)
 ![Altair](https://img.shields.io/badge/Altair-E34F26?style=flat)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=LangChain&logoColor=white)
