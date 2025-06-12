@@ -35,3 +35,10 @@ Data-centric AI
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 </div>
+
+## Notice
+인공지능 / 데이터 과학 / 통계와 아래의 도메인 데이터를 결합한 **공동 연구 및 프로젝트**에 관심이 있습니다:
+
+- 와인, 커피, 차(tea)
+- 한국 전통주, 전통과자
+- 제과・제빵, 디저트, 위스키, 사케 등
